@@ -3,7 +3,9 @@ Multinomial classification with class-conditional feature group selection
 
 1) This instruction provides an implementation of CCSOGL published in:
        http://www.sciencedirect.com/science/article/pii/S0167865517304087
-
+       
+   Li, Xiangrui, Dongxiao Zhu, and Ming Dong. "Multinomial classification with class-conditional overlapping sparse feature groups." Pattern Recognition Letters (2017).
+   
 2) Package dependencies:
    Rcpp, RcppArmadillo
 
