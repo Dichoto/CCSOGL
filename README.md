@@ -1,10 +1,10 @@
 # CCSOGL
 Multinomial classification with class-conditional feature group selection
 
-1. This instruction provides an implementation of CCSOGL published in:
+1) This instruction provides an implementation of CCSOGL published in:
        http://www.sciencedirect.com/science/article/pii/S0167865517304087
 
-2. Package dependencies:
+2) Package dependencies:
    Rcpp, RcppArmadillo
 
 3. To run the method, you first need to compile "CCSOGL.cpp" file using "Rcpp::sourceCpp" function from Rcpp package.
